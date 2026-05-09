@@ -139,6 +139,10 @@ ol {
   cursor: pointer;
 }
 
+.search-form__submit-button{
+  width: 194px;
+}
+
 .search-form__label:has(:focus-visible) {
   outline: 1px solid #FFF;
   outline-offset: 1px;
