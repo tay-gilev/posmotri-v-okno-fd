@@ -53,10 +53,6 @@ ol {
   color: #545050;
 }
 
-.content__card-link {
-  text-decoration: none;
-}
-
 .content__video-card-title {
   text-overflow: ellipsis;
   padding: 2px 2px 5px;
@@ -134,10 +130,6 @@ ol {
   border-bottom: 1px solid #fff;
   min-width: 225px;
   appearance: none;
-}
-
-.search-form__textfield:focus {
-  outline: none;
 }
 
 .search-form__label {
