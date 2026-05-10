@@ -41,7 +41,7 @@ ol {
 .content {
   display: flex;
   gap: 30px;
-  margin-left: 30px;
+  margin: 0 auto;
 }
 
 .content__accent {
