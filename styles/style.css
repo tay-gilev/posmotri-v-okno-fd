@@ -35,7 +35,7 @@ ol {
   font-size: 18px;
   background-color: #1b1919;
   display: grid;
-  place-items: center;
+  margin: 30px auto;
 }
 
 .content {
@@ -60,7 +60,6 @@ ol {
   font-size: 30px;
   line-height: 1;
   text-transform: uppercase;
-  margin-bottom: 0px;
 }
 
 .content__list-container {
