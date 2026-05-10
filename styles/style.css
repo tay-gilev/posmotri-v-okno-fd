@@ -34,7 +34,6 @@ ol {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  display: grid;
   display: flex;
   align-items: center;
   margin: 0 auto;
