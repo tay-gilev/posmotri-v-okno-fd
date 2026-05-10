@@ -30,21 +30,17 @@ ol {
 .page {
   inline-size: 1200px;
   block-size: 100%;
-  margin-top: 133px;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  display: flex;
-  justify-content: center;
-  align-content: center;
+  display: grid;
+  place-items: center;
 }
 
 .content {
   display: flex;
   gap: 26px;
-  inline-size: 100%;
-  margin: 0 60px 20px;
 }
 
 .content__accent {
@@ -68,7 +64,7 @@ ol {
 
 .content__list-container {
   position: relative;
-  height: 534px;
+  height: 298px;
   overflow-y: auto;
   overflow-x: hidden;
 }
