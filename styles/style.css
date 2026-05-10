@@ -67,7 +67,6 @@ ol {
   position: relative;
   height: 298px;
   overflow-y: auto;
-  overflow-x: hidden;
 }
 
 .content__details {
