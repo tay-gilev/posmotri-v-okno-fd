@@ -35,14 +35,17 @@ ol {
   font-size: 18px;
   background-color: #1b1919;
   display: grid;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
   place-items: center;
   margin: 30px auto;
 }
 
 .content {
   display: flex;
+  width: 100%;
   gap: 30px;
-  margin: 0 auto;
 }
 
 .content__accent {
