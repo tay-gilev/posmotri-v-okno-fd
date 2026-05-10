@@ -30,7 +30,7 @@ ol {
 .page {
   inline-size: 1200px;
   block-size: 100%;
-  margin: auto;
+  margin-top: 133px;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
@@ -43,8 +43,8 @@ ol {
 .content {
   display: flex;
   gap: 26px;
-  margin: 0 30px;
   inline-size: 100%;
+  margin: 0 60px 20px;
 }
 
 .content__accent {
@@ -69,7 +69,8 @@ ol {
 .content__list-container {
   position: relative;
   height: 534px;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .content__details {
